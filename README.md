@@ -10,7 +10,7 @@ Convert ALL images in Folder to WebP format with a simple right-click!
 - 💡 **Starter (USD $1)**: 100 conversions/day
 - ⭐ **Pro**: Unlimited conversions + batch processing ($9.99/month)
 
-[Learn more about Pro →](https://yo-licenses.vercel.app)
+[Learn more about Pro →](https://yo-license.pro)
 
 ## Features
 
@@ -43,7 +43,7 @@ _Currently for display purposes only - not yet available_
 - 🌏 Custom integrations
 - 🔑 SLA guarantee
 
-[Upgrade to Pro →](https://yo-licenses.vercel.app)
+[Upgrade to Pro →](https://yo-license.pro)
 
 ## Usage
 
@@ -101,7 +101,7 @@ _Currently for display purposes only - not yet available_
 
 ### How to Activate Pro
 
-Get the License key on [Go To Dashboard Detail Subscriptions](https://yo-licenses.vercel.app/dashboard/subscriptions)
+Get the License key on [Go To Dashboard Detail Subscriptions](https://yo-license.pro/dashboard/subscriptions)
 
 1. **Command Palette** method:
 
@@ -130,7 +130,7 @@ Get the License key on [Go To Dashboard Detail Subscriptions](https://yo-license
 - 14-day money-back guarantee
 - Cancel anytime, keep Pro access until end of billing period
 
-[Complete Pro Guide →](https://yo-licenses.vercel.app/dashboard/documentation) | [Privacy Policy →](https://yo-licenses.vercel.app/privacy-policy) | [Terms of Service →](https://yo-licenses.vercel.app/terms-of-service)
+[Complete Pro Guide →](https://yo-license.pro/dashboard/documentation) | [Privacy Policy →](https://yo-license.pro/privacy-policy) | [Terms of Service →](https://yo-license.pro/terms-of-service)
 
 ## Installation
 
@@ -160,7 +160,7 @@ This extension implements several security measures:
 
 ## License
 
-See [LICENSE](https://yo-licenses.vercel.app/license) file for details.
+See [LICENSE](https://yo-license.pro/license) file for details.
 
 ## Contributing
 
@@ -168,4 +168,4 @@ Contributions are welcome! Please feel free to submit a Pull Request after Open 
 
 ## Support
 
-If you encounter any issues or have questions, please file an issue on the [Open Ticket](https://yo-licenses.vercel.app/dashboard/tickets).
+If you encounter any issues or have questions, please file an issue on the [Open Ticket](https://yo-license.pro/dashboard/tickets).
